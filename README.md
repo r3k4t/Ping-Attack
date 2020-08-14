@@ -4,12 +4,16 @@
 
 This program can attack website.This ping attack is impact your target website.I am not responsible when you use it illegal purpose.It is only educational purpose.
 
+
 Linux Example:
 
 1. git clone https://github.com/r3k4t/Ping-Attack.git
 <br>
-2.cd Ping-Attck
+
+2.cd Ping-Attack
+
 <br>
+
 3.sudo python ping-attack.py
 <br>
 
