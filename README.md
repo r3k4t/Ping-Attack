@@ -6,7 +6,6 @@ This program can attack website.This ping attack is impact your target website.I
 
 
 Linux Example:
-
 1. git clone https://github.com/r3k4t/Ping-Attack.git
 <br>
 
