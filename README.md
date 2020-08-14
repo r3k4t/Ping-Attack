@@ -6,12 +6,13 @@ This program can attack website.This ping attack is impact your target website.I
 
 Linux Example:
 <br>
-
-1.git clone https://github.com/r3k4t/Ping-Attack.git
+1.sudo apt install toilet
 <br>
-2.cd Ping-Attack
+2.git clone https://github.com/r3k4t/Ping-Attack.git
 <br>
-3.sudo python ping-attack.py
+3.cd Ping-Attack
+<br>
+4.sudo python ping-attack.py
 <br>
 
 <h4>Screenshots</h4>
@@ -20,3 +21,4 @@ Linux Example:
 <br>
 
 ![Screenshot at 2020-08-14 08-47-05](https://user-images.githubusercontent.com/69615463/90210413-81170f00-de0b-11ea-856d-c7c4c47881bc.png)
+
