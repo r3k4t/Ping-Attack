@@ -1,4 +1,4 @@
-<h2>Linux<h2> 
+<h1>Linux<h1> 
 
 ### Python coding ###
 
