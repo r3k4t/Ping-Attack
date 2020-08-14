@@ -1,4 +1,4 @@
-<h1>Linux<h1> 
+Linux
 
 This program can attack website.This ping attack is impact your target website.I am not responsible when you use it illegal purpose.It is only educational purpose.
 
