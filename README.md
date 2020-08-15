@@ -1,21 +1,29 @@
-### Ping Attack ###
+<h2> Ping Attack </h2>
 
+<h4> Author : RKT </h4>
+
+### Description ###
 
 This program can attack website.This ping attack is impact your target website.I am not responsible when you use it illegal purpose.It is only educational purpose.
 
+### Installation ###
 
-Linux Example:
+<ul>
+<li>Python</li>
+<li>Toilet</li>
+</ul>
+
+
+### Getting Started ###
+
+ git clone https://github.com/r3k4t/Ping-Attack.git
 <br>
-1.sudo apt install toilet
+ cd Ping-Attack
 <br>
-2.git clone https://github.com/r3k4t/Ping-Attack.git
-<br>
-3.cd Ping-Attack
-<br>
-4.sudo python ping-attack.py
+ sudo python ping-attack.py
 <br>
 
-<h4>Screenshots</h4>
+### Screenshots ###
 
 ![Screenshot at 2020-08-14 08-46-26](https://user-images.githubusercontent.com/69615463/90210333-52009d80-de0b-11ea-91ba-51aa0c603cf7.png)
 <br>
